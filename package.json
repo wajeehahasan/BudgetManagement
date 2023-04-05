@@ -1,0 +1,14 @@
+{
+  "name": "budgetmanagement",
+  "version": "1.0.0",
+  "description": "This app is for management of the following items:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wajeeha Hasan",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.1"
+  }
+}
